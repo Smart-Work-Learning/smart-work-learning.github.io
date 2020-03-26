@@ -1,0 +1,10 @@
+title: Smart Work Learning
+# email: 
+# twitter: 
+# instagram: 
+copyright: Copyright &copy; 2020 Smart Work Learning. All rights reserved.
+# google-analytics: 
+plugins: 
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-seo-tag
