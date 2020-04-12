@@ -1,8 +1,8 @@
 - name: home
   link: /
 - name: about
-  link: /about
+  link: "#about"
 - name: pricing
-  link: /pricing
+  link: "#pricing"
 - name: book now
-  link: /contact
+  link: "#contact"
