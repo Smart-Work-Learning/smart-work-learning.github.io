@@ -4,6 +4,7 @@ title: Smart Work Learning
 # instagram: 
 copyright: Copyright &copy; 2020 Smart Work Learning. All rights reserved.
 # google-analytics: 
+# formspree:
 plugins: 
     - jekyll-feed
     - jekyll-sitemap
