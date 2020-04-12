@@ -1,4 +1,4 @@
 ---
 layout: landing
-title: Home
+title: Rethink Learning
 ---

@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow" style="position: sticky; top: 0;">
 
     <div class="container">
 
@@ -18,7 +18,7 @@
 
                 <li class="nav-item">            
                     
-                    <a class="nav-link" href="{{ item.link }}">
+                    <a class="nav-link {% if item.link == "/#contact" %} btn btn-warning shadow-sm text-dark mx-2 {% endif %}" href="{{ item.link }}">
                                                     
                         {{ item.name }}
                         
