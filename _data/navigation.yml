@@ -4,5 +4,7 @@
   link: "/#about"
 - name: pricing
   link: "/#pricing"
-- name: register
+- name: become a tutor
+  link: "#"
+- name: sign up
   link: "/#contact"
