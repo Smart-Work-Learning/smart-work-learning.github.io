@@ -3,7 +3,7 @@ title: Smart Work Learning
 # twitter: 
 # instagram: 
 copyright: Copyright &copy; 2020 Smart Work Learning. All rights reserved.
-# google-analytics: 
+google-analytics: UA-154771534-2
 # formspree:
 plugins: 
     - jekyll-feed
