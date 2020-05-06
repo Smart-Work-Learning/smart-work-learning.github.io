@@ -4,7 +4,7 @@
 
         <a class="navbar-brand" href="/">
 
-            <img src="/assets/logos/Tutor Logo.png" height="55" class="d-inline-block align-top" alt="">    
+            <img src="/assets/logos/updated_logo.png" height="55" class="d-inline-block align-top" alt="">    
             
         </a>
 
@@ -28,7 +28,7 @@
 
                 <li class="nav-item">            
                     
-                    <a class="nav-link {% if item.link == "/#contact" %} btn btn-warning shadow-sm text-dark mx-2 {% endif %}" href="{{ item.link }}">
+                    <a class="nav-link" href="{{ item.link }}">
                                                     
                         {{ item.name }}
                         
@@ -37,6 +37,12 @@
                 </li>
 
                 {% endfor %}
+
+                <li class="nav-item mx-1" style="text-transform: lowercase;">
+
+                    {%- include calendly.html -%}
+
+                </li>
          
             </ul>
 
